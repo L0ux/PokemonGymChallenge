@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7b1544174bb4a2048b40e1f1ed0efd46
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nextEntrance: {instanceID: 0}
+  - mapData: {instanceID: 0}
+  - entranceAudio: {fileID: 8300000, guid: b679211faad334201b1b80858b7891a6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

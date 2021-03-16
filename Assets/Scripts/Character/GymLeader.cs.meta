@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9c168bcb713df4bd9acb6eb39ad70563
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fallAudio: {instanceID: 0}
+  - portrait: {instanceID: 0}
+  - exitTeleporter: {instanceID: 0}
+  - teleporterAppearAudio: {fileID: 8300000, guid: 5ffa666d595fe4921bbd2d3a43bae23e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

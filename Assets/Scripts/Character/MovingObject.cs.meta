@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c7cee8e3e091046379e914a761e9b044
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fallAudio: {fileID: 8300000, guid: cd8136b87c624484585ab2951e7a1a85, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

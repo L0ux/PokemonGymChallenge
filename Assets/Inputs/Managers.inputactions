@@ -1,0 +1,77 @@
+{
+    "name": "Managers",
+    "maps": [
+        {
+            "name": "Managers",
+            "id": "5652d49c-0f81-479d-99e2-5dc26d1f0944",
+            "actions": [
+                {
+                    "name": "SpeedText",
+                    "type": "PassThrough",
+                    "id": "56040bb0-1c4d-419d-b82e-2b0a3b37af18",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "TextPass",
+                    "type": "Button",
+                    "id": "e6cfbdc6-0303-4511-8d02-ee1d68640ac0",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Start",
+                    "type": "Button",
+                    "id": "0a4b0dd0-a3fe-49ca-b301-b996f5293f1f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "829c565e-2d97-43b4-add6-baf339309dc0",
+                    "path": "<Keyboard>/h",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3bb0186d-c1f7-4578-aec6-84326c234fea",
+                    "path": "<Keyboard>/b",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TextPass",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "221ddfeb-749d-46e2-8f6a-763b04cb494a",
+                    "path": "<Keyboard>/n",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SpeedText",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "WaitMap",
+            "id": "a3c16e59-88ca-4785-96d5-48a0038b7bc8",
+            "actions": [],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": []
+}

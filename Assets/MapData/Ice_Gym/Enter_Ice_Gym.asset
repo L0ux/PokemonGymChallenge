@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 908370c4629e04d118f95827045ab7ee, type: 3}
+  m_Name: Enter_Ice_Gym
+  m_EditorClassIdentifier: 
+  bounds:
+    min:
+      x: -10
+      y: -5
+    max:
+      x: 9
+      y: 6
+  allowRun: 0
+  underMapPosition: {fileID: 0}
+  levelMusic: {fileID: 8300000, guid: 16d5925fd5a96ed45b90b510e4702a33, type: 3}
+  spawnPosition: {x: 0, y: 0}
+  teleporterPosition: {x: -1, y: -3}

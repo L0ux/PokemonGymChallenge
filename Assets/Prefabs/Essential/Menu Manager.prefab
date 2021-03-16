@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &915361009201924825
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 915361009201924827}
+  - component: {fileID: 915361009201924826}
+  - component: {fileID: 3101173307161532961}
+  m_Layer: 0
+  m_Name: Menu Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &915361009201924827
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 915361009201924825}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.2341645, y: 0.72264016, z: -6.0881057}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &915361009201924826
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 915361009201924825}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c87980ad4e244477b8896fc43e1ae84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  menuButtons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  menu: {fileID: 0}
+  pauseMenu: {fileID: 0}
+  optionMenu: {fileID: 0}
+  commandeMenu: {fileID: 0}
+  openMenu: {fileID: 8300000, guid: 1b31a378480a60d45b401e1d5f7cfafd, type: 3}
+  songMenu: {fileID: 8300000, guid: 1a6a199c1370ea248a49adec825b6219, type: 3}
+  buttonA:
+  - {fileID: 8838746817211559812, guid: b8fc2f19c4ed6439e89bd174090637ac, type: 3}
+  - {fileID: -2597980433635650036, guid: c623a56b081064290a3366ab5206c43a, type: 3}
+  aText: {fileID: 0}
+  buttonB:
+  - {fileID: -775102097139250161, guid: b8fc2f19c4ed6439e89bd174090637ac, type: 3}
+  - {fileID: -3477454432331981669, guid: c623a56b081064290a3366ab5206c43a, type: 3}
+  bText: {fileID: 0}
+  buttonStart: {fileID: 6577147016133177365, guid: c623a56b081064290a3366ab5206c43a,
+    type: 3}
+  startText: {fileID: 0}
+  buttonMove: {fileID: -6279393015727818416, guid: b8fc2f19c4ed6439e89bd174090637ac,
+    type: 3}
+  upText: {fileID: 0}
+  downText: {fileID: 0}
+  leftText: {fileID: 0}
+  rightText: {fileID: 0}
+  playerInput: {fileID: 0}
+  managerInput: {fileID: 0}
+--- !u!114 &3101173307161532961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 915361009201924825}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Actions: {fileID: -944628639613478452, guid: c623a56b081064290a3366ab5206c43a,
+    type: 3}
+  m_NotificationBehavior: 0
+  m_UIInputModule: {fileID: 0}
+  m_DeviceLostEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_DeviceRegainedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ControlsChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ActionEvents: []
+  m_NeverAutoSwitchControlSchemes: 0
+  m_DefaultControlScheme: 
+  m_DefaultActionMap: Managers
+  m_SplitScreenIndex: -1
+  m_Camera: {fileID: 0}
