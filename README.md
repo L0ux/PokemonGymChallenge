@@ -15,8 +15,8 @@ Vous pouvez tester le jeu directement [ici](https://l0ux.itch.io/pokemon-gym-cha
 Actuellement en version **0.2.1** une seule arène est développée.   
 * Mécanique de glace
     * sol qui se casse sous vos pas
-    * mur de glace qui disparait si le puzzle est réalisé
-    ![alt](./MarkdownRessources/ice.gif)
+    * mur de glace qui disparait si le puzzle est réalisé!  
+    * [alt](./MarkdownRessources/ice.gif)
 * Personnage non joueur 
     * Actions disponnibles   
         * Texte ambiant 
