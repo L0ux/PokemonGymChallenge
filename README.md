@@ -1,6 +1,4 @@
 # <center><ins>Pokemon Gym Challenge</ins></center>
-[![Generic badge](https://img.shields.io/badge/Made%20With-Unity-ffffff.svg)](https://shields.io/)
-<br/><br/><br/>
 ![alt](./MarkdownRessources/mainMenu.gif)
 <br/><br/><br/>
 
@@ -32,7 +30,7 @@ Actuellement en version **0.2.1** une seule arène est développée.
   
 
 # Technique 
-
+[![Generic badge](https://img.shields.io/badge/Made%20With-Unity-ffffff.svg)](https://shields.io/)  
 Le jeu est réalisé avec Unity 3D sous la version **2021.1.0b11**.  
 J'utilise le nouveau systeme d'[Input d'Unity](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/manual/QuickStartGuide.html).  
 Tous les sprites proviennent de [The Spriters Resource](https://www.spriters-resource.com/) tandis que les audios proviennent de [pokeemerald github](https://github.com/pret/pokeemerald).
