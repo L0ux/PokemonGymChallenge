@@ -37,5 +37,5 @@ Tous les sprites proviennent de [The Spriters Resource](https://www.spriters-res
 
 
 # Contributor 
-<img src="https://avatars.githubusercontent.com/l0ux" width="30" height="30"/> [https://github.com/L0ux](https://l0ux.itch.io/pokemon-gym-challenge)
-<img src="./MarkdownRessources/LOUX.gif" width="100" height="100"/>
+<img src="https://avatars.githubusercontent.com/l0ux" width="30" height="30"/> [L0ux](https://github.com/L0ux)  
+<img src="./MarkdownRessources/LOUX.gif" width="150" height="150"/>
