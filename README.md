@@ -40,5 +40,5 @@ Tous les sprites proviennent de [The Spriters Resource](https://www.spriters-res
 <img src="https://avatars.githubusercontent.com/l0ux" width="30" height="30"/> [L0ux](https://github.com/L0ux)
 <br/><br/><br/>
 <p align="center">
-<img src="./MarkdownRessources/LOUX.gif" width="150" height="150"/>
+<img src="./MarkdownRessources/LOUX.gif" width="250" height="250"/>
  </p>
