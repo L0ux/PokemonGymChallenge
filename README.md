@@ -36,4 +36,5 @@ J'utilise le nouveau systeme d'[Input d'Unity](https://docs.unity3d.com/Packages
 Tous les sprites proviennent de [The Spriters Resource](https://www.spriters-resource.com/) tandis que les audios proviennent de [pokeemerald github](https://github.com/pret/pokeemerald).
 
 
-
+# Contributor 
+<img src="https://avatars.githubusercontent.com/l0ux" width="30" height="30"/>
